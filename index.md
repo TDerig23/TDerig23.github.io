@@ -1,6 +1,6 @@
 ## Welcome to Thomas Derig's Github Website
 
-# https://www.internationalgenome.org/data
+### https://www.internationalgenome.org/data
 
 You can use the [editor on GitHub](https://github.com/TDerig23/TDerig23.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
